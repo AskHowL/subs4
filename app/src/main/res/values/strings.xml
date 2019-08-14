@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie and TV Series</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Series</string>
+    <string name="download">Download</string>
+    <string name="change_language_settings">Change Language Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="popular">Popular</string>
+    <string name="image">Image</string>
+
+
+</resources>

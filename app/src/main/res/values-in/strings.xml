@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Film dan Serial TV</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+    <string name="download">Unduh</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="popular">Populer</string>
+    <string name="image">Gambar</string>
+
+
+</resources>
